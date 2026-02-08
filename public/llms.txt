@@ -1,0 +1,87 @@
+# JINE — Generative Engine Optimization Map
+
+> A תכשיטים ואופנה business.
+
+---
+
+## Pages
+
+### Home
+https://jine-5b98e397.zappy5.app
+
+### Collections
+https://jine-5b98e397.zappy5.app/collections
+
+### Signature Piece
+https://jine-5b98e397.zappy5.app/signature-piece
+
+### Contact
+https://jine-5b98e397.zappy5.app/contact
+
+### Products
+https://jine-5b98e397.zappy5.app/products
+המוצרים שלנו - JINE
+
+### Cart
+https://jine-5b98e397.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://jine-5b98e397.zappy5.app/checkout
+תשלום
+
+### Login
+https://jine-5b98e397.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://jine-5b98e397.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://jine-5b98e397.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://jine-5b98e397.zappy5.app/product/:slug
+פרטי המוצר - JINE
+
+### Category
+https://jine-5b98e397.zappy5.app/category/:slug
+מוצרים - JINE
+
+## Legal & Policy
+
+### Privacy Policy
+https://jine-5b98e397.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://jine-5b98e397.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://jine-5b98e397.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About JINE
+JINE is a business in the תכשיטים ואופנה industry.
+
+## Target Audience
+- מקצוענים צעירים יוקרתיים
+- קונים מתנות לאירועים מיוחדים
+- משפיענים בתחום האופנה
+
+## Industry
+תכשיטים ואופנה
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://jine-5b98e397.zappy5.app/sitemap.xml
+- **Robots.txt**: https://jine-5b98e397.zappy5.app/robots.txt

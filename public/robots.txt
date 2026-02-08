@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jine-5b98e397.zappy5.app/sitemap.xml
